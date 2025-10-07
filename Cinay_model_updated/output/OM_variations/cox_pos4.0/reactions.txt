@@ -1,0 +1,4 @@
+OM C:H:O:N:P ratio is 112.5:a:b:11.4:1
+2b-a = 420.8
+DNRN: OM + -0.0 NO3- + 11.4 H+ -> 112.5 CO2 + 11.4 NH4+ + 1 H3PO4 + -0.0 NO2- + ? H20
+Denitrification: OM + 0.0 NO2- + 11.4  H+ -> 112.5 CO2 + 11.4 NH4+ + 1 H3PO4 + 0.0 N2 + ? H2O
